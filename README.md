@@ -1,12 +1,18 @@
 # YouTube Video Analysis System
 
-![image](https://github.com/user-attachments/assets/e70a9b3d-9b5f-4afa-b6e1-03a5beba5166)
-
 ## Project Overview
 
 A comprehensive system has been developed to analyze YouTube videos through multiple modalities including visual content, audio transcription, and metadata extraction. The system leverages state-of-the-art AI models to process and index video content for efficient searching and analysis.
 
+## Demo
+
+https://github.com/user-attachments/assets/eba2f7a8-6813-481f-a04e-33d99263ce49
+
 ## Key Features Implemented
+
+### Design
+
+![image](https://github.com/user-attachments/assets/e70a9b3d-9b5f-4afa-b6e1-03a5beba5166)
 
 ### Video Processing
 
